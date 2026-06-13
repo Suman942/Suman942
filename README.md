@@ -65,7 +65,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🌐 [Netclan Explorer](https://github.com/Suman942)
+#### 🌐 [Netclan Explorer](https://play.google.com/store/apps/details?id=com.netclan.netclan)
 > A hyperlocal social networking Android app for local community connection.
 - Real-time chat & audio/video calls via **LiveKit + Socket.IO**
 - Modules: Dating, Matrimony, Jobs, Marketplace, Hashtag Groups
@@ -81,7 +81,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/suman942" target="_blank">
+  <a href="https://www.linkedin.com/in/suman-shil-204177191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Suman942" target="_blank">
@@ -90,7 +90,7 @@
   <a href="https://medium.com/@suman.shil.942" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="[https://leetcode.com/](https://leetcode.com/u/Suman942/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:suman.19da@gmail.com">
