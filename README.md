@@ -13,7 +13,7 @@
 - 🏢 Currently working as **Lead Android Developer** at **Netclan Private Limited, Delhi**
 - 🔭 Reduced app startup time from **10–12s → 2–3s (4x faster)** and improved crash-free sessions by **50%**
 - 📡 Built real-time chat & video calling using **LiveKit + Socket.IO**, boosting engagement by **30%**
-- 📝 I write on [Medium](https://medium.com/)
+- 📝 I write on [Medium](https://medium.com/@suman.shil.942)
 - 💬 Ask me about **Android, Kotlin, MVVM, Jetpack Compose, WebRTC**
 - 📫 Reach me at **suman.19da@gmail.com**
 - ⚡ Fun fact: I believe in shipping clean, scalable code — and learning something new every day
@@ -71,7 +71,7 @@
 - Modules: Dating, Matrimony, Jobs, Marketplace, Hashtag Groups
 - Improved user retention by **15%**, session duration by **2 minutes**
 
-#### 📥 [Android File Downloader Library](https://github.com/Suman942)](https://github.com/Suman942/file-downloader)
+#### 📥 [Android File Downloader Library](https://github.com/Suman942/file-downloader)
 > Lightweight Android file downloader built with Kotlin & Coroutines.
 - Supports **pause/resume**, progress tracking, concurrent downloads
 - Internal download queue with a clean, developer-friendly API
@@ -87,7 +87,7 @@
   <a href="https://github.com/Suman942" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/" target="_blank">
+  <a href="https://medium.com/@suman.shil.942" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://leetcode.com/" target="_blank">
