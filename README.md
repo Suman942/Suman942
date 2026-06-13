@@ -58,14 +58,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman942&layout=compact&theme=dark&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman942&layout=compact&theme=dark&hide_border=true&hide=swift" width="40%" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌐 [Netclan Explorer](https://play.google.com/store/apps/details?id=com.netclan.netclan)
+#### 🌐 [Netclan Explorer](https://github.com/Suman942)
 > A hyperlocal social networking Android app for local community connection.
 - Real-time chat & audio/video calls via **LiveKit + Socket.IO**
 - Modules: Dating, Matrimony, Jobs, Marketplace, Hashtag Groups
@@ -90,7 +90,7 @@
   <a href="https://medium.com/@suman.shil.942" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Suman942/" target="_blank">
+  <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:suman.19da@gmail.com">
