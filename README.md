@@ -71,7 +71,7 @@
 - Modules: Dating, Matrimony, Jobs, Marketplace, Hashtag Groups
 - Improved user retention by **15%**, session duration by **2 minutes**
 
-#### 📥 [Android File Downloader Library](https://github.com/Suman942)
+#### 📥 [Android File Downloader Library](https://github.com/Suman942)](https://github.com/Suman942/file-downloader)
 > Lightweight Android file downloader built with Kotlin & Coroutines.
 - Supports **pause/resume**, progress tracking, concurrent downloads
 - Internal download queue with a clean, developer-friendly API
