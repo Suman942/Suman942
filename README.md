@@ -90,7 +90,7 @@
   <a href="https://medium.com/@suman.shil.942" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/Suman942/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:suman.19da@gmail.com">
